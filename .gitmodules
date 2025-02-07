@@ -1,0 +1,6 @@
+[submodule "coderr_frontend"]
+	path = coderr_frontend
+	url = git@github.com:KevinMuellerDev/coderr_frontend.git
+[submodule "coderr_backend"]
+	path = coderr_backend
+	url = git@github.com:KevinMuellerDev/coderr_backend.git
